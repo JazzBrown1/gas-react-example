@@ -21,12 +21,9 @@ cd clasp
 ~~~
 
 Create a google app scripts project
-
 ~~~
 clasp create --type webapp
 ~~~
-
-Select 'Webapp'in the CLI
 
 Push the bundled code to Google App Scripts using clasp and open your project
 ~~~
