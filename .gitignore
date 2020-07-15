@@ -10,6 +10,7 @@
 
 # production
 /build
+/clasp
 
 # misc
 .DS_Store
