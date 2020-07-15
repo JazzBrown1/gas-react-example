@@ -6,10 +6,9 @@ function HelloWorld() {
   useEffect(() => {
     const makeCall = async () => {
       try {
-        const { body } = await client.call('helloWorld');
+        const { body } = await client.call('hello', 'World');
         setVal(body);
       } catch (err) {
-        console.error(err);
         setVal('Error');
       }
     };
