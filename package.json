@@ -10,7 +10,7 @@
     "gas-react": "^0.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "rollup": "^2.18.2",
     "rollup-plugin-node-resolve": "^5.2.0"
   },
